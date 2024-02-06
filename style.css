@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div {
+  width: 60%;
+}
+
+img {
+  width: 100%;
+  border: 5px solid white;
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
